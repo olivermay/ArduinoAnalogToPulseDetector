@@ -24,7 +24,7 @@
   boolean laststate = false;
   
    
-  int pulses = 0;
+  unsigned int pulses = 0;
 
 
 // the setup routine runs once when you press reset:
