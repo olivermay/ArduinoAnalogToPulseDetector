@@ -17,7 +17,7 @@
     voltage the voltage in millivolts where the transition from low to high was detected. (this should be close to 2400).
 
  Copyright 2014 Oliver May oliver@levvie.be
- You are free to use and distribute this program under the terms of the AGPL2.
+ You are free to use and distribute this program under the terms of the AGPL.
  */
  
   // Remember the previous state (HIGH or LOW)
