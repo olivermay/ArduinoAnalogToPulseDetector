@@ -16,7 +16,8 @@
     with count the amount of pulses since start (this will overflow) and 
     voltage the voltage in millivolts where the transition from low to high was detected. (this should be close to 2400).
 
- This example code is in the public domain.
+ Copyright 2014 Oliver May oliver@levvie.be
+ You are free to use and distribute this program under the terms of the AGPL2.
  */
  
   // Remember the previous state (HIGH or LOW)
